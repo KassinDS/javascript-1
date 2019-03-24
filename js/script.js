@@ -7,5 +7,4 @@ var name = "Василий";
 var admin = name;
 console.log(admin);
 
-var x = 1000 + "108";
-console.log(x);
+var x = 1000 + "108"; // склеивание, т.к. есть строка  = 100108
