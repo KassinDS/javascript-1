@@ -1,0 +1,10 @@
+body {
+	background-color: lightgray;
+	padding: 50px;
+	font-family: Arial;
+}
+
+.txt {
+	width: 500px;
+	margin-bottom: 30px;
+}

@@ -1,4 +1,5 @@
   // Задание 1 (урок 4)
+function task4.1 () {
 
 var number = + prompt ('Введите число от 0 до 999');
 var object = {};
@@ -17,7 +18,9 @@ var object = {};
 
   console.log (getNumber(number));
 
+  }
+
     // Задание 3 (урок 4)
 
-    
+
 
